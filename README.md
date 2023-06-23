@@ -44,3 +44,17 @@ within MGNN/
 3. For node classification task, run the following scripts:
 - on Cora, Citeseer and Pubmed: ./MGNN_Node/main.py 
 - on Chem2Bio2RDF: ./MGNN_CBR/main.py
+
+# Citation
+If you find this useful for your research, we would be appreciated if you cite the following papers:
+```
+@ARTICLE{10154572,
+  author={Chen, Xuexin and Cai, Ruichu and Fang, Yuan and Wu, Min and Li, Zijian and Hao, Zhifeng},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Motif Graph Neural Network}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2023.3281716}}
+```
